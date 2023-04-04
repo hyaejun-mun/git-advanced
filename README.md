@@ -21,5 +21,8 @@
 - 'git switch 브랜치명'
 
 4. 브랜치 만들고, 전환까지 동시에 하기
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 - 'git branch -b 브랜치명'
